@@ -1,0 +1,50 @@
+*{
+    margin:auto;
+    
+}
+
+.container{
+    /* border:1px solid red; */
+    width:35%;
+    text-align:center;
+}
+
+.btn1{
+    width:20%;
+    height:auto;
+    background-color: rgb(20, 7, 80);
+    border-radius:9999px;
+    cursor:pointer;
+    color:antiquewhite;
+    padding:10px;
+}
+.btn2{
+    width:20%;
+    height:auto;
+    background-color: rgb(42, 228, 67);
+    border-radius:9999px;
+    cursor:pointer;
+    color:rgb(0, 0, 0);
+    padding:10px;
+}
+.btn3{
+    width:20%;
+    height:auto;
+    background-color: rgb(236, 76, 13);
+    border-radius:9999px;
+    cursor:pointer;
+    color:rgb(0, 0, 0);
+    padding:10px;
+}
+.searchbar{
+    width:60%;
+    height:23px;
+    border-radius: 9999px;
+    padding:10px;
+}
+.todo{
+    padding:10px;
+    border:1px solid grey;
+    color:yellow;
+    background-color: black;
+}
